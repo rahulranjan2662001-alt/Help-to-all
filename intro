@@ -1,0 +1,25 @@
+business-strategy-analytics-portfolio/
+│
+├── README.md
+│
+├── solar-industry/
+│   ├── README.md
+│   ├── competitive-benchmarking.md
+│   └── data/
+│
+├── financial-analysis/
+│   ├── README.md
+│   └── company-analysis.md
+│
+├── strategy/
+│   ├── README.md
+│   └── market-entry-framework.md
+│
+├── analytics/
+│   ├── README.md
+│   └── customer-segmentation.md
+│
+├── projects/
+│   └── project-index.md
+│
+└── LICENSE
