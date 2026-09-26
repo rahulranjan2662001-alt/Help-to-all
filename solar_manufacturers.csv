@@ -1,0 +1,14 @@
+company,country,module_capacity_gw,cell_capacity_gw,wafer_capacity_gw,primary_technology,vertical_integration,max_module_efficiency_pct,product_warranty_years,performance_warranty_years,source,data_as_of,data_status
+JinkoSolar,China,,,,TOPCon,High,,,,,To Verify
+LONGi,China,,,,TOPCon / BC,High,,,,,To Verify
+Trina Solar,China,,,,TOPCon,High,,,,,To Verify
+JA Solar,China,,,,TOPCon,High,,,,,To Verify
+Waaree Energies,India,,,,TOPCon,Partial,,,,,To Verify
+Goldi Solar,India,,,,TOPCon,Module-focused,,,,,To Verify
+Vikram Solar,India,,,,TOPCon,Developing,,,,,To Verify
+Emmvee,India,,,,TOPCon,Partial,,,,,To Verify
+ReNew Photovoltaics,India,,,,TOPCon,Partial,,,,,To Verify
+Premier Energies,India,,,,TOPCon,Partial,,,,,To Verify
+Avaada,India,,,,TOPCon,Developing,,,,,To Verify
+Tata Power Solar,India,,,,TOPCon,Partial,,,,,To Verify
+Adani Solar,India,,,,TOPCon,Partial,,,,,To Verify
